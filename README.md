@@ -1,8 +1,14 @@
 # client
 
-> My dandy Nuxt.js project
+> Simple crud using nuxt and api json placheholder
 
 ## Build Setup
+
+``` API
+# Create api
+$ Move folder api outside vue project
+$ cd api
+$ json-server db.json
 
 ``` bash
 # install dependencies
